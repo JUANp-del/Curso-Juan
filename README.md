@@ -1,2 +1,2 @@
-# Curso-Juan
+# Curso-Juan P
 prueba de curso
